@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_CreateAndAddParameter2.dll"</Assembly>   
+    <AddInId>86164600-7419-4A4A-B58E-F05BD4AE9354</AddInId>
+    <FullClassName>RevitAPI_CreateAndAddParameter2.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Добавление параметра Наименование  и заполнение у экземпляров труб</Text>
+  </AddIn>
+</RevitAddIns>

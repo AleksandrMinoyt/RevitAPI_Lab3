@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_CreateAndAddParameter.dll"</Assembly>
+    <AddInId>F065E6D7-ED28-4785-A38E-3D8BC6CA55ED</AddInId>
+    <FullClassName>RevitAPI_CreateAndAddParameter.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Создание параметра проекта и добавление его в трубы </Text>
+  </AddIn>
+</RevitAddIns>

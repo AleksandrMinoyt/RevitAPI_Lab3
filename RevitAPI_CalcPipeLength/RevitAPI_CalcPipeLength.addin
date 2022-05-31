@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_CalcPipeLength.dll"</Assembly>  
+    <AddInId>BB79B5E6-5BE9-4E08-AAE4-0405109220C1</AddInId>
+    <FullClassName>RevitAPI_CalcPipeLength.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Подсчет общей длины труб</Text>
+  </AddIn>
+</RevitAddIns>
